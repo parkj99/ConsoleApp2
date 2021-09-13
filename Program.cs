@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hellogit");
+            Console.WriteLine("master branch");
         }
     }
 }
