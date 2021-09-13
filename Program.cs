@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("master branch");
+            Console.WriteLine("master branch2");
         }
     }
 }
